@@ -1,4 +1,4 @@
-/* SPIRIT_QUEST_MODULES.HC
+/* Psilocybin_Mushrooms_MODULE.HC
  * Neurological/Psychological Analysis of Psilocybin Mushrooms
  * Merging Ancient Spiritual Practices with Modern Neuroscience
  * Written in HolyC for TempleOS
